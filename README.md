@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/sabanas-de-seda/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Sábanas de seda](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sabanas-de-seda/) |
+| **Get License** | [License this song: Sábanas de seda](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sabanas-de-seda/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Sábanas de seda, el aroma de tu piel
+> Dime si esta noche tú te quieres perder
+> Desde Barcelona hasta el amanecer
+> Tú y yo a solas en un juego de placer
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
