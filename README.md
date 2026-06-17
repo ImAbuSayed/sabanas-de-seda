@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/sabanas-de-seda/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Sábanas de seda](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sabanas-de-seda/) |
+| **Get License** | [Get License For Sábanas de seda](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sabanas-de-seda/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `cbb5c5fe0fd61f991ff810286936211cf25e0e351393289f3752b92d7ca5d317` |
 | **Timestamp** | June 17, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

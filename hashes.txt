@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Sábanas de seda
+
+This log tracks the cryptographic history and versioning for the song **Sábanas de seda** (sabanas-de-seda).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-17T15:58:06.151996 | `v1` | `cbb5c5fe0fd61f991ff810286936211cf25e0e351393289f3752b92d7ca5d317` | `e4593a11dcbbb5407d69276fb7b4e11201ea02386ce30f0699e83dd21016eaa2` | `2026-06-17_sabanas-de-seda-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
